@@ -20,6 +20,7 @@ jgnjaoilojahgagddnkeankieagghabk // Cisco Security for Chromebook
 bfogiafebfohielmmehodmfbbebbbpei // Keeper® Password Manager & Digital Vault
 donbapingkdboklmjcfmpagmdohkgphg // Smoothwall Safeguarding Client (Global)
 ddkjiahejlhfcafbddmgiahcphecmpfh // uBlock Origin Lite
+jaoebcikabjppaclpgbodmmnfjihdngk // Lightspeed Alert Helper
 mbdopkebolmmpjbjehfjnnieihnihhcn // Lightspeed Alert Helper for Edge - EHOVE requested
 opckliiodihlmpliejjddbpdjdhdkefm // Lightspeed Location Agent - EHOVE requested
 cokbpgemipiebgbmnnlfboefilmdlonm // Trellix DLP Endpoint Extension
